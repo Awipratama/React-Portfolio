@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  background-color: #F2F5F9;
+}
+
+.active {
+  background: linear-gradient(90deg, #FF9C1A, #E80505);
+  color: white;
+}
