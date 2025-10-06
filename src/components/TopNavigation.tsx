@@ -1,6 +1,6 @@
 export default function TopNavigation() {
   return (
-    <nav className="top-navigation max-w-full flex justify-between px-18 py-4 shadow-xl">
+    <nav className="top-navigation max-w-full w-full fixed flex justify-between px-18 py-4">
       <div className="text-logo text-[28px]">
         <h1>Jhon Doe</h1>
       </div>
